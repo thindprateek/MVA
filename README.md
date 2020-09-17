@@ -6,11 +6,10 @@ MVA Project repository
 
 ###### Team Members
 1. Prateek Singh Thind
-  - MBA student with specializations in Supply Chain and Analytics & Information Management
-  - Work ex: software developer and project leader with Infosys (Pune, India)
-
+- MBA student with specializations in Supply Chain and Analytics & Information Management
+- Work ex: software developer and project leader with Infosys (Pune, India)
 2. Mihika Gupta
-  - Pursuing Master's of Information Technology and Analytics
+- Pursuing Master's of Information Technology and Analytics
 
 ## Data Description
 
