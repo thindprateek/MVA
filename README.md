@@ -5,13 +5,14 @@ MultiVariate Analysis Fall 2020
 MVA Project repository 
 
 ###### Team Members
-**1.Prateek Singh Thind, MBA**
+1. Prateek Singh Thind
+  - MBA student with specializations in Supply Chain and Analytics & Information Management
+  - Work ex: software developer and project leader with Infosys (Pune, India)
 
+2. Mihika Gupta
+  - Pursuing Master's of Information Technology and Analytics
 
-
-**2.Mihika Gupta, MITA**
-
-## Description
+## Data Description
 
 This is a countrywide car accident dataset, which covers 49 states of the USA. The accident data are collected from February 2016 to June 2020, using two APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about 3.5 million accident records in this dataset. [Click here](https://www.kaggle.com/sobhanmoosavi/us-accidents) to learn more about this dataset. 
 
