@@ -17,9 +17,10 @@ This is a countrywide car accident dataset, which covers 49 states of the USA. T
 
 ###### Problem Statement
 Using MultiVariate Analysis Techniques to:
-    1. Predict Cross-Dependency of various data Attributes contributing to Road Accidents.
-    2. Find and Predict patterns, if any, involving the parameters.
-    3. Apply MVA Techniques to find insights into the data and Predict Future possibilities of Road accidents using historical data analysis. 
+    1.Determine variables that contributed most to the US Road accidents.
+    2. Predict Cross-Dependency of various data Attributes contributing to Road Accidents.
+    3. Find and Predict patterns, if any, involving the parameters.
+    4. Apply MVA Techniques to find insights into the data and Predict Future possibilities of Road accidents using historical data analysis. 
 
 ###### MetaData
 The dataset has approximately 3.5 million instances,and 49 attributes.Many attributes have missing or null values which will be trimmed consequently as we progress further with the analysis.
@@ -34,15 +35,15 @@ Index|Attribute Name|Description
 4|End time|Shows the accident end time
 5|Distance|The length of road affected by the accident
 6|City|City of accident occurence
-3|Temperature|shows temperature in deg F
-4|Wind_Chill|Shows the wind chill in deg F
-5|Humidity%|Shows the humidity in percentage 
-6|Pressure(in)|Shows the air pressure in inches
-7|Visibility|Shows visibility in Miles
-8|Wind Direction|Shows wind direction
-9|Wind Speed|Shows wind speed in mph(miles per hour)
-10|Precipitation(in)|Shows precipitation in inches
-11|Weather Conditions|Shows the weather conditions(rain,snow,fog,thunderstorm,etc)
-12|Bump|Indicates presence of speed bump in a nearby area
-13|Crossing|indicates a crossing in the nearby area
-14|Sunrise_Sunset|Shows the period of the day(i.e. day or night)
+7|Temperature|shows temperature in deg F
+8|Wind_Chill|Shows the wind chill in deg F
+9|Humidity%|Shows the humidity in percentage 
+10|Pressure(in)|Shows the air pressure in inches
+11|Visibility|Shows visibility in Miles
+12|Wind Direction|Shows wind direction
+13|Wind Speed|Shows wind speed in mph(miles per hour)
+14|Precipitation(in)|Shows precipitation in inches
+15|Weather Conditions|Shows the weather conditions(rain,snow,fog,thunderstorm,etc)
+16|Bump|Indicates presence of speed bump in a nearby area
+17|Crossing|indicates a crossing in the nearby area
+18|Sunrise_Sunset|Shows the period of the day(i.e. day or night)
