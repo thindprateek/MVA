@@ -2,13 +2,14 @@
 MultiVariate Analysis Fall 2020
 
 ## US Accidents, A countrywise traffic accident dataset(2016-2020) KAGGLE
+MVA Project repository 
 
 ###### Team Members
-**1.Prateek Singh Thind**
+**1.Prateek Singh Thind, MBA**
 
 
 
-**2.Mihika Gupta**
+**2.Mihika Gupta, MITA**
 
 ## Description
 
