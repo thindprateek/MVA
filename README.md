@@ -11,21 +11,21 @@ MVA Project repository
 2. Mihika Gupta
     - Pursuing Master's of Information Technology and Analytics
 
-## Data Description
+### Data Description
 
 This is a countrywide car accident dataset, which covers 49 states of the USA. The accident data are collected from February 2016 to June 2020, using two APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about 3.5 million accident records in this dataset. [Click here](https://www.kaggle.com/sobhanmoosavi/us-accidents) to learn more about this dataset. 
 
-## Problem Statement
+#### Problem Statement
 Using MultiVariate Analysis Techniques to:
 * Determine variables that contributed most to the US Road accidents.
 * Predict Cross-Dependency of various data Attributes contributing to Road Accidents.
 * Find and Predict patterns, if any, involving the parameters.
 * Apply MVA Techniques to find insights into the data and Predict Future possibilities of Road accidents using historical data analysis. 
 
-## MetaData
-The dataset has approximately 3.5 million instances,and 49 attributes.Many attributes have missing or null values which will be trimmed consequently as we progress further with the analysis.
+##### MetaData
+The dataset has approximately 3.5 million instances,and 49 attributes. Many attributes have missing or null values which will be trimmed consequently as we progress further with the analysis.
 
-## Data Dictionary(Major Selected Attributes)
+###### Data Dictionary(Major Selected Attributes)
 
 Index|Attribute Name|Description
 -----|--------------|-----------
