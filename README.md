@@ -3,7 +3,7 @@ MultiVariate Analysis Fall 2020
 
 ## US Accidents, A countrywise traffic accident dataset(2016-2020) KAGGLE
 
-###### Team Members
+**Team Members**
 1.Prateek Singh Thind
 
 
