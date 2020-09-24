@@ -98,5 +98,3 @@ For all three dependent variables, various plots and visualizations will be illu
 5. Categorical variables (Present/Absent or Day/Night) can be used to determine which category was more prevelant when an accident occured in general.
 
 
-Further progress would be updated as we move ahead with the project and explore the dataset in detail!
-
