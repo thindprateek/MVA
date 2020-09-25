@@ -95,6 +95,6 @@ For all three dependent variables, various plots and visualizations will be illu
 2. Dependent variables vs severity
 3. Independent variables vs severity
 4. Quantitative and numerical attributes can be processed using statistical/ MVA models and graphs representing probability or % contribution to the accident will be plotted.
-5. Categorical variables (Present/Absent or Day/Night) can be used to determine which category was more prevelant when an accident occured in general.
+5. Categorical variables (Present/Absent or Day/Night) can be used to determine which category was more prevelant when an accident occured general.
 
 
