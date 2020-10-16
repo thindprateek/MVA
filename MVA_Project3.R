@@ -1,7 +1,7 @@
 ###### Assignment 5 ##############
 ## Applying Cluster Analysis
 
-#Getting working directory 
+#Getting working directory
 getwd()
 
 #Setting directory to load data set
